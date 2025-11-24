@@ -1,0 +1,1 @@
+Big round Hollow building, piano in the middle, bottom

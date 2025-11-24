@@ -19,10 +19,11 @@
 
 → For small changes within existing Cpp files, ‌Build/Binaries nuke is not a must; a Simple rebuild should be able to handle. ←
 
-Thx to @.petraefa from DuridMech Game Dev,
 
+Thx to @.petraefa from DuridMech Game Dev,
 ## FULL C++ Work flow:
 
+Create
 - _Start here if_ - Adding a _**NEW**_ Cpp file:
     
     - Tools->Add C++, create the Class and choose _**Private/Public**_ (if needed, create extra dir via the text box, NOT in file explorer)
@@ -48,7 +49,8 @@ Thx to @.petraefa from DuridMech Game Dev,
         - Check any fail from log ( e.g. Build: 1 succeeded, 0 failed, …)
             
         - Optional, press Ctrl + F5 to start Editor from VS
-            
+
+Remove
 
 - delete Cpp file:
     
@@ -67,7 +69,8 @@ Thx to @.petraefa from DuridMech Game Dev,
             - also VS related files if compile error
                 
         - **Generate** VS pj files from .uproject (right click)
-            
+
+Rename
 
 - Renaming technically is auto-copy and auto-delete. HIGHTLY _**NOT**_ RECOMAMDED (BP / Asset may not recognize it).
     
@@ -80,7 +83,7 @@ Thx to @.petraefa from DuridMech Game Dev,
         - reassigned ALL pointers / relations towards the old file
             
         - delete the old file
-            
+- Alternatively, if you are using Rider, Just right click and choose Refactor (Renaming). Mostly Save.
 
 ==================
 
@@ -100,4 +103,4 @@ Thx to @.petraefa from DuridMech Game Dev,
 
 [https://forums.unrealengine.com/t/private-and-public-folder-structure/269996/2](https://forums.unrealengine.com/t/private-and-public-folder-structure/269996/2)
 
-[[C++]]
+[[UE++]]
