@@ -1,4 +1,4 @@
-[[Multiplayer]]
+
 
 **Online Session Interface in Ureal Engine has Delegates List.**
 

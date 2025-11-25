@@ -8,13 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"UE5/Engine Core\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 3177643
-      }
-    },
-    {
       "query": "path:\"UE5/Online Subsystem\"  ",
       "color": {
         "a": 1,
@@ -34,18 +27,46 @@
         "a": 1,
         "rgb": 10178552
       }
+    },
+    {
+      "query": "path:\"UE5/Engine Core/C++\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14606612
+      }
+    },
+    {
+      "query": "path:\"UE5/Engine Core/Pointers\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"UE5/Engine Core/Data Management\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:\"UE5/Engine Core/Actor\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -1,
-  "nodeSizeMultiplier": 1.5516632016632,
-  "lineSizeMultiplier": 2.7537422037422,
+  "nodeSizeMultiplier": 1.54402286902287,
+  "lineSizeMultiplier": 2.70535343035343,
   "collapse-forces": false,
   "centerStrength": 0,
   "repelStrength": 8.83575883575884,
   "linkStrength": 1,
-  "linkDistance": 245,
-  "scale": 0.5087618855792387,
-  "close": false
+  "linkDistance": 194,
+  "scale": 0.6316046762907443,
+  "close": true
 }
