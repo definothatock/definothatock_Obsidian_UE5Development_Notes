@@ -101,4 +101,3 @@ For example:
     
 - Data Tables integrate well with both C++ and Blueprints, making them a versatile tool for game development.
 
-[[Data Management]]

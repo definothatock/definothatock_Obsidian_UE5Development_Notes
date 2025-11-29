@@ -14,5 +14,3 @@ The Crashing incident
 	- now AI cannot access the correct ptrs, and I cannot access the source of trouble because there is no ptr to it
 	
 	guys please do not do what I done
-
-[[FYP.base]]

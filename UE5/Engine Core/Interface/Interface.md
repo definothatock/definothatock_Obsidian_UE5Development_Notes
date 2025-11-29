@@ -69,4 +69,3 @@
     
 - Mixed teams (C++ + BP) or long-term maintainability? Start with UE C++ interface; let BPs implement it as needed.
 
-[[Engine Core]]

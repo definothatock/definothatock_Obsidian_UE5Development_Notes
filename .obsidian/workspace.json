@@ -4,49 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9fba34112a1d45e3",
+        "id": "cf301e41c29effc8",
         "type": "tabs",
-        "dimension": 56.97674418604651,
         "children": [
           {
-            "id": "c68faaba6ea938bd",
+            "id": "9a063aea2baa81fc",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
-          }
-        ]
-      },
-      {
-        "id": "cc6512623ec59a85",
-        "type": "tabs",
-        "dimension": 43.02325581395349,
-        "children": [
-          {
-            "id": "48a89c531928f634",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UE5/Engine Core/Data Management/Data Table.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Data Table"
             }
           }
         ]
@@ -230,39 +198,39 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c68faaba6ea938bd",
+  "active": "9a063aea2baa81fc",
   "lastOpenFiles": [
-    "FYP/Idea Branch/Item Idea.md",
-    "FYP/Idea Branch/Background Idea.md",
-    "FYP/Idea Branch/Idea Branch.md",
-    "FYP/Idea Branch/Reference Games.md",
-    "FYP/Idea Branch/Scene Idea.md",
-    "UE5/Engine Core/Data Management/Data Table.md",
-    "UE5/Online Subsystem/Online Session Subsystem.md",
-    "UE5/Engine Core/Pointers/Pointers.md",
-    "UE5/UE5.base",
-    "UE5/Untitled.md",
-    "UE5/Engine Core/Pointers/Delegates/Delegates.md",
-    "UE5/Engine Core/C++/C++.md",
-    "UE5/Engine Core/Actor/Actor Component.md",
-    "UE5/Engine Core/Actor/Actor.md",
-    "UE5/Engine Core/Actor",
-    "UE5/Untitled",
-    "UE5/Online Subsystem/Multiplayer.md",
-    "UE5/Engine Core/Data Management/Data Management.md",
-    "UE5/Engine Core/Data Management",
-    "UE5/Engine Core/Blue Print/Blueprint.md",
-    "UE5/Online Subsystem/Replication.md",
-    "FYP/AI Design/AI Designs.md",
-    "UE5/AI/AI Perception/AI Perceptions.md",
-    "UE5/State Tree/State Tree.md",
-    "UE5/Reflection System/GC System.md",
+    "README.md",
     "UE5/Engine Core/Engine Core.md",
+    "FYP/Idea Branch/Idea Branch.md",
+    "FYP/AI Design/AI Designs.md",
+    "FYP/FYP.md",
+    "FYP/DumbArse shit I've done.md",
+    "FYP/FYP.base",
+    "FYP/Idea Branch/Scene Idea.md",
+    "FYP/Idea Branch/Item Idea.md",
+    "FYP/Idea Branch/Reference Games.md",
+    "FYP/Idea Branch/Random Ideas.md",
+    "FYP/Idea Branch/Background Idea.md",
+    "FYP/AI Design/Working Memory.md",
+    "UE5/Engine Core/Interface/Interface.md",
+    "UE5/Engine Core/Blue Print/Blueprint.md",
+    "UE5/Engine Core/C++/C++.md",
     "UE5/Engine Core/C++/Preprocessor.md",
+    "UE5/Engine Core/C++/Lambda.md",
     "UE5/Engine Core/C++/UE++/UE++.md",
     "UE5/Engine Core/C++/UE++/Complier/UE++ Compiling.md",
-    "UE5/Engine Core/C++/Lambda.md",
-    "FYP/FYP.base",
+    "UE5/Engine Core/Data Management/Data Table.md",
+    "UE5/Engine Core/Data Management/Data Management.md",
+    "UE5/Engine Core/Pointers/Obj Pointers.md",
+    "UE5/Engine Core/Pointers/Pointers.md",
+    "UE5/Engine Core/Pointers/Delegates/Delegates.md",
+    "UE5/Engine Core/Actor/Actor Component.md",
+    "UE5/Engine Core/Actor/Actor.md",
+    "UE5/UE5.base",
+    "UE5/Engine Core/Actor",
+    "UE5/Untitled",
+    "UE5/Engine Core/Data Management",
     "FYP/Idea Branch/Reference Games",
     "FYP/Idea Branch",
     "Untitled 1.base",

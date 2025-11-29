@@ -1,7 +1,0 @@
-views:
-  - type: table
-    name: Table
-    order: []
-    sort:
-      - property: file.name
-        direction: ASC

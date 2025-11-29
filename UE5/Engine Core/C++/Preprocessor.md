@@ -23,4 +23,3 @@ To define DEBUG from the above example, we can either:
 This pattern keeps logging statements throughout code without paying any runtime cost in release builds.
 
 
-[[C++]]

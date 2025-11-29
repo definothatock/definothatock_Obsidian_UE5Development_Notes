@@ -11,5 +11,3 @@ Example from Project:
 			});
 
 ⚠️ Be careful: capturing by reference can dangle if the lambda outlives the referenced object.
-
-[[C++]]

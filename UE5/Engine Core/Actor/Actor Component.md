@@ -46,5 +46,3 @@ So, when choosing your HP system:
 - Optionally expose an interface (IDamageable) for generic interaction.
     
 - Keep Controllers for input/AI; health lives with the Actor via its component.
-
-[[Actor]]
