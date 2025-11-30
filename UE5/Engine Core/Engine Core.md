@@ -1,5 +1,5 @@
 [[Actor]]
-[[Pointers]]
+[[UE Pointers]]
 [[Data Management]]
 [[C++]]
 [[Blueprint]]

@@ -4,16 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "cf301e41c29effc8",
+        "id": "7597535e48329308",
         "type": "tabs",
         "children": [
           {
-            "id": "9a063aea2baa81fc",
+            "id": "2ee8ed741481491b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "b8f9cc59c6b4ab7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "UE5/Engine Core/Pointers/UE Pointers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +38,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "UE Pointers"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,7 +62,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -84,7 +95,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -212,13 +224,29 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "9a063aea2baa81fc",
+  "active": "4a2d661b8bde9f90",
   "lastOpenFiles": [
-    "README.md",
+    "UE5/Engine Core/Pointers/UE Pointers.md",
+    "UE5/Engine Core/C++/C++.md",
     "UE5/Engine Core/Engine Core.md",
+    "UE5/Engine Core/Pointers/GC Aware/GC Aware.md",
+    "UE5/Engine Core/Pointers/Delegates/Delegates.md",
+    "UE5/Engine Core/Pointers/Non GC Aware/Non GC Aware.md",
+    "UE5/Reflection System/GC System.md",
+    "UE5/Online Subsystem/Online Session Subsystem.md",
+    "UE5/Reflection System/UE pointer.md",
+    "UE5/Reflection System/Reflection System.md",
+    "UE5/UE5.md",
+    "FYP/FYP.md",
+    "UE5/Engine Core/Actor/Actor Component.md",
+    "Bin.md",
+    "UE5/Engine Core/Pointers/Obj Pointers.md",
+    "UE5/Engine Core/Data Management/Data Table.md",
+    "UE5/Engine Core/Pointers/Non GC Aware",
+    "UE5/Engine Core/Pointers/GC Aware",
+    "README.md",
     "FYP/Idea Branch/Idea Branch.md",
     "FYP/AI Design/AI Designs.md",
-    "FYP/FYP.md",
     "FYP/DumbArse shit I've done.md",
     "FYP/FYP.base",
     "FYP/Idea Branch/Scene Idea.md",
@@ -227,20 +255,6 @@
     "FYP/Idea Branch/Random Ideas.md",
     "FYP/Idea Branch/Background Idea.md",
     "FYP/AI Design/Working Memory.md",
-    "UE5/Engine Core/Interface/Interface.md",
-    "UE5/Engine Core/Blue Print/Blueprint.md",
-    "UE5/Engine Core/C++/C++.md",
-    "UE5/Engine Core/C++/Preprocessor.md",
-    "UE5/Engine Core/C++/Lambda.md",
-    "UE5/Engine Core/C++/UE++/UE++.md",
-    "UE5/Engine Core/C++/UE++/Complier/UE++ Compiling.md",
-    "UE5/Engine Core/Data Management/Data Table.md",
-    "UE5/Engine Core/Data Management/Data Management.md",
-    "UE5/Engine Core/Pointers/Obj Pointers.md",
-    "UE5/Engine Core/Pointers/Pointers.md",
-    "UE5/Engine Core/Pointers/Delegates/Delegates.md",
-    "UE5/Engine Core/Actor/Actor Component.md",
-    "UE5/Engine Core/Actor/Actor.md",
     "UE5/UE5.base",
     "UE5/Engine Core/Actor",
     "UE5/Untitled",
@@ -248,8 +262,6 @@
     "FYP/Idea Branch/Reference Games",
     "FYP/Idea Branch",
     "Untitled 1.base",
-    "Untitled.base",
-    "UE5/Engine Core/Interface",
     "UE5/Online Subsystem/Online Session Subsystem Example.png",
     "Pasted image 20251118180711.png",
     "FYP/AI Design/Memory Flow example.png",

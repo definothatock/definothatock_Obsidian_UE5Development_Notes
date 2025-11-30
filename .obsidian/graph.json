@@ -22,13 +22,6 @@
       }
     },
     {
-      "query": "file:.base",
-      "color": {
-        "a": 1,
-        "rgb": 10178552
-      }
-    },
-    {
       "query": "path:\"UE5/Engine Core/C++\"  ",
       "color": {
         "a": 1,
@@ -55,6 +48,20 @@
         "a": 1,
         "rgb": 5395168
       }
+    },
+    {
+      "query": "tag:#BaseNode  ",
+      "color": {
+        "a": 1,
+        "rgb": 16663363
+      }
+    },
+    {
+      "query": "path:\"UE5/Reflection System\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
     }
   ],
   "collapse-display": false,
@@ -63,10 +70,10 @@
   "nodeSizeMultiplier": 1.54402286902287,
   "lineSizeMultiplier": 2.70535343035343,
   "collapse-forces": false,
-  "centerStrength": 0.12993762993763,
-  "repelStrength": 8.83575883575884,
+  "centerStrength": 0.196465696465696,
+  "repelStrength": 9.83367983367983,
   "linkStrength": 1,
-  "linkDistance": 194,
-  "scale": 0.4505081176757738,
+  "linkDistance": 171,
+  "scale": 0.6316046762907248,
   "close": true
 }
