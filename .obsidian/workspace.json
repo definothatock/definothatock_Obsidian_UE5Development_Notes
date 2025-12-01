@@ -18,13 +18,13 @@
             }
           },
           {
-            "id": "b8f9cc59c6b4ab7a",
+            "id": "de5a5f7f768081c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UE5/Engine Core/Pointers/UE Pointers.md",
-                "mode": "source",
+                "file": "UE5/Engine Core/C++/Lambda.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "UE Pointers"
+              "title": "Lambda"
             }
           }
         ],
@@ -95,8 +95,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -224,12 +223,13 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "4a2d661b8bde9f90",
+  "active": "de5a5f7f768081c6",
   "lastOpenFiles": [
+    "UE5/Engine Core/Pointers/GC Aware/GC Aware.md",
     "UE5/Engine Core/Pointers/UE Pointers.md",
+    "UE5/Engine Core/C++/Lambda.md",
     "UE5/Engine Core/C++/C++.md",
     "UE5/Engine Core/Engine Core.md",
-    "UE5/Engine Core/Pointers/GC Aware/GC Aware.md",
     "UE5/Engine Core/Pointers/Delegates/Delegates.md",
     "UE5/Engine Core/Pointers/Non GC Aware/Non GC Aware.md",
     "UE5/Reflection System/GC System.md",
@@ -254,7 +254,6 @@
     "FYP/Idea Branch/Reference Games.md",
     "FYP/Idea Branch/Random Ideas.md",
     "FYP/Idea Branch/Background Idea.md",
-    "FYP/AI Design/Working Memory.md",
     "UE5/UE5.base",
     "UE5/Engine Core/Actor",
     "UE5/Untitled",
