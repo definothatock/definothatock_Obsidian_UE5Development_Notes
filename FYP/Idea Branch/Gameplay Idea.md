@@ -1,0 +1,3 @@
+- a special kind of medium in air, like water, like radiation?
+	- very special items has concentrated that medium? 
+	- radar tool to ping? but attract special creatures like in barotrama? 

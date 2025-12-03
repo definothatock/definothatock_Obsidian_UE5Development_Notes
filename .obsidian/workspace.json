@@ -11,20 +11,10 @@
             "id": "2ee8ed741481491b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "de5a5f7f768081c6",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "UE5/Engine Core/C++/Lambda.md",
-                "mode": "preview",
+                "file": "FYP/Idea Branch/Gameplay Idea.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -38,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lambda"
+              "title": "Gameplay Idea"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,11 +212,13 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "de5a5f7f768081c6",
+  "active": "2ee8ed741481491b",
   "lastOpenFiles": [
+    "FYP/Idea Branch/Gameplay Idea.md",
+    "UE5/Engine Core/C++/Lambda.md",
+    "FYP/Idea Branch/Random Ideas.md",
     "UE5/Engine Core/Pointers/GC Aware/GC Aware.md",
     "UE5/Engine Core/Pointers/UE Pointers.md",
-    "UE5/Engine Core/C++/Lambda.md",
     "UE5/Engine Core/C++/C++.md",
     "UE5/Engine Core/Engine Core.md",
     "UE5/Engine Core/Pointers/Delegates/Delegates.md",
@@ -252,8 +243,6 @@
     "FYP/Idea Branch/Scene Idea.md",
     "FYP/Idea Branch/Item Idea.md",
     "FYP/Idea Branch/Reference Games.md",
-    "FYP/Idea Branch/Random Ideas.md",
-    "FYP/Idea Branch/Background Idea.md",
     "UE5/UE5.base",
     "UE5/Engine Core/Actor",
     "UE5/Untitled",
