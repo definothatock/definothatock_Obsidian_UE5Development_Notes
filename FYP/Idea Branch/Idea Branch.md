@@ -1,4 +1,4 @@
-
+[[Gameplay Idea]]
 [[Item Idea]]
 [[Random Ideas]]
 [[Scene Idea]]

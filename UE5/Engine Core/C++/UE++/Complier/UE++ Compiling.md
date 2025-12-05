@@ -98,7 +98,14 @@ Rename
 - Set force recompile on start
     
 
-[https://dotnet.microsoft.com/en-us/download/dotnet/9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)  
-[https://www.bilibili.com/opus/623713793518015070](https://www.bilibili.com/opus/623713793518015070)
+
+https://www.youtube.com/watch?v=MKBFG69UnFY
+
 
 [https://forums.unrealengine.com/t/private-and-public-folder-structure/269996/2](https://forums.unrealengine.com/t/private-and-public-folder-structure/269996/2)
+
+https://dev.epicgames.com/documentation/en-us/unreal-engine/setting-up-visual-studio-development-environment-for-cplusplus-projects-in-unreal-engine
+https://dotnet.microsoft.com/en-us/download/dotnet/8.0
+
+[https://www.bilibili.com/opus/623713793518015070](https://www.bilibili.com/opus/623713793518015070)
+

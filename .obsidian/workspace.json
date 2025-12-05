@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FYP/Idea Branch/Gameplay Idea.md",
+                "file": "UE5/Engine Core/C++/UE++/Complier/UE++ Compiling.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gameplay Idea"
+              "title": "UE++ Compiling"
+            }
+          },
+          {
+            "id": "750111332dcca40e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FYP/AI Design/Creature Behaviour Machine.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Creature Behaviour Machine"
             }
           }
         ]
@@ -214,6 +238,14 @@
   },
   "active": "2ee8ed741481491b",
   "lastOpenFiles": [
+    "UE5/Voice Chat/Voice Chat.md",
+    "FYP/AI Design/Creature Behaviour Machine.md",
+    "FYP/AI Design/Pasted image 20251204235908.png",
+    "FYP/AI Design/AI Designs.md",
+    "UE5/Voice Chat",
+    "UE5/Voice Chat/VOIP.md",
+    "UE5/UE5.md",
+    "FYP/Idea Branch/Idea Branch.md",
     "FYP/Idea Branch/Gameplay Idea.md",
     "UE5/Engine Core/C++/Lambda.md",
     "FYP/Idea Branch/Random Ideas.md",
@@ -227,7 +259,6 @@
     "UE5/Online Subsystem/Online Session Subsystem.md",
     "UE5/Reflection System/UE pointer.md",
     "UE5/Reflection System/Reflection System.md",
-    "UE5/UE5.md",
     "FYP/FYP.md",
     "UE5/Engine Core/Actor/Actor Component.md",
     "Bin.md",
@@ -236,16 +267,9 @@
     "UE5/Engine Core/Pointers/Non GC Aware",
     "UE5/Engine Core/Pointers/GC Aware",
     "README.md",
-    "FYP/Idea Branch/Idea Branch.md",
-    "FYP/AI Design/AI Designs.md",
-    "FYP/DumbArse shit I've done.md",
     "FYP/FYP.base",
-    "FYP/Idea Branch/Scene Idea.md",
-    "FYP/Idea Branch/Item Idea.md",
-    "FYP/Idea Branch/Reference Games.md",
     "UE5/UE5.base",
     "UE5/Engine Core/Actor",
-    "UE5/Untitled",
     "UE5/Engine Core/Data Management",
     "FYP/Idea Branch/Reference Games",
     "FYP/Idea Branch",
