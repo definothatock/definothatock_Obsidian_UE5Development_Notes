@@ -8,51 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ee8ed741481491b",
+            "id": "6d042cf31d17bcf4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UE5/Engine Core/C++/UE++/Complier/UE++ Compiling.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "UE++ Compiling"
-            }
-          },
-          {
-            "id": "750111332dcca40e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FYP/AI Design/Creature Behaviour Machine.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Creature Behaviour Machine"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -236,15 +198,30 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "2ee8ed741481491b",
+  "active": "6d042cf31d17bcf4",
   "lastOpenFiles": [
-    "UE5/Voice Chat/Voice Chat.md",
+    "UE5/State Tree/State Tree.md",
+    "UE5/State Tree/Task.md",
+    "UE5/State Tree/Evaluator.md",
+    "UE5/UI.md",
+    "Bin.md",
+    "UE5/Engine Core/Pointers/Obj Pointers.md",
+    "UE5/UE5.md",
+    "UE5/Online/Multiplayer/Multiplayer.md",
+    "UE5/Online/Replication.md",
+    "FYP/Installed Plugins.md",
+    "UE5/Online/Multiplayer",
+    "UE5/Online/Multiplayer/Voice Chat/Voice Chat.md",
+    "UE5/Online.md",
+    "UE5/Online/Online Session Subsystem.md",
+    "FYP/FYP.md",
+    "FYP/EIK.md",
+    "UE5/Engine Core/C++/UE++/Complier/UE++ Compiling.md",
+    "FYP/AI Design/AI Designs.md",
     "FYP/AI Design/Creature Behaviour Machine.md",
     "FYP/AI Design/Pasted image 20251204235908.png",
-    "FYP/AI Design/AI Designs.md",
-    "UE5/Voice Chat",
-    "UE5/Voice Chat/VOIP.md",
-    "UE5/UE5.md",
+    "UE5/Online/Multiplayer/Voice Chat",
+    "UE5/Online/Multiplayer/Voice Chat/VOIP.md",
     "FYP/Idea Branch/Idea Branch.md",
     "FYP/Idea Branch/Gameplay Idea.md",
     "UE5/Engine Core/C++/Lambda.md",
@@ -252,29 +229,15 @@
     "UE5/Engine Core/Pointers/GC Aware/GC Aware.md",
     "UE5/Engine Core/Pointers/UE Pointers.md",
     "UE5/Engine Core/C++/C++.md",
-    "UE5/Engine Core/Engine Core.md",
-    "UE5/Engine Core/Pointers/Delegates/Delegates.md",
-    "UE5/Engine Core/Pointers/Non GC Aware/Non GC Aware.md",
-    "UE5/Reflection System/GC System.md",
-    "UE5/Online Subsystem/Online Session Subsystem.md",
-    "UE5/Reflection System/UE pointer.md",
-    "UE5/Reflection System/Reflection System.md",
-    "FYP/FYP.md",
-    "UE5/Engine Core/Actor/Actor Component.md",
-    "Bin.md",
-    "UE5/Engine Core/Pointers/Obj Pointers.md",
-    "UE5/Engine Core/Data Management/Data Table.md",
     "UE5/Engine Core/Pointers/Non GC Aware",
     "UE5/Engine Core/Pointers/GC Aware",
-    "README.md",
     "FYP/FYP.base",
     "UE5/UE5.base",
     "UE5/Engine Core/Actor",
     "UE5/Engine Core/Data Management",
     "FYP/Idea Branch/Reference Games",
     "FYP/Idea Branch",
-    "Untitled 1.base",
-    "UE5/Online Subsystem/Online Session Subsystem Example.png",
+    "UE5/Online/Online Session Subsystem Example.png",
     "Pasted image 20251118180711.png",
     "FYP/AI Design/Memory Flow example.png",
     "Pasted image 20251118020520.png",

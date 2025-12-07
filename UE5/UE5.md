@@ -1,7 +1,8 @@
 #BaseNode
-[[Voice Chat]]
+
 [[State Tree]]
 [[Reflection System]]
-[[Online Session Subsystem]]
+[[Online]]
 [[AI Perceptions]]
 [[Engine Core]]
+[[UI]]

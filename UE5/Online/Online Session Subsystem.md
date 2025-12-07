@@ -13,4 +13,3 @@
     - Callback functions provoked and received session data
 ![[Online Session Subsystem Example.png]]
 
-[[Multiplayer]]

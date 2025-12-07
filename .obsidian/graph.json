@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"UE5/Online Subsystem\"  ",
+      "query": "path:UE5/Online",
       "color": {
         "a": 1,
         "rgb": 11657298
@@ -70,10 +70,10 @@
   "nodeSizeMultiplier": 1.54402286902287,
   "lineSizeMultiplier": 2.70535343035343,
   "collapse-forces": false,
-  "centerStrength": 0.196465696465696,
-  "repelStrength": 9.83367983367983,
+  "centerStrength": 0.303014553014553,
+  "repelStrength": 12.047817047817,
   "linkStrength": 1,
-  "linkDistance": 171,
-  "scale": 0.4505081176757608,
+  "linkDistance": 131,
+  "scale": 0.450508117675759,
   "close": true
 }
