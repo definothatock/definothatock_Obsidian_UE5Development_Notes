@@ -3,4 +3,6 @@
 [[Random Ideas]]
 [[Scene Idea]]
 [[Background Idea]]
-[[Reference Games]]
+[[Creature Idea]]
+[[Games Reference]]
+[[Sound Reference]]

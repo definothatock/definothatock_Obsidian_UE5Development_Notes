@@ -1,8 +1,3 @@
-[[Actor]]
-[[UE Pointers]]
-[[Data Management]]
-[[C++]]
-[[Blueprint]]
-[[Interface]]
-
-
+#BaseNode
+[[Gameplay Framework]]
+[[Programming]]

@@ -22,45 +22,38 @@
       }
     },
     {
-      "query": "path:\"UE5/Engine Core/C++\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14606612
-      }
-    },
-    {
-      "query": "path:\"UE5/Engine Core/Pointers\"  ",
+      "query": "path:\"UE5/Engine Core/Programming\"  ",
       "color": {
         "a": 1,
         "rgb": 5431473
       }
     },
     {
-      "query": "path:\"UE5/Engine Core/Data Management\"  ",
+      "query": "path:\"UE5/Engine Core/Gameplay Framework\"  ",
       "color": {
         "a": 1,
         "rgb": 5419488
       }
     },
     {
-      "query": "path:\"UE5/Engine Core/Actor\"  ",
+      "query": "path:UE5/Runtime  ",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 14701233
       }
     },
     {
       "query": "tag:#BaseNode  ",
       "color": {
         "a": 1,
-        "rgb": 16663363
+        "rgb": 14890293
       }
     },
     {
-      "query": "path:\"UE5/Reflection System\"  ",
+      "query": "path:\"UE5/Engine Tools\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701233
+        "rgb": 5395168
       }
     }
   ],
@@ -70,10 +63,10 @@
   "nodeSizeMultiplier": 1.54402286902287,
   "lineSizeMultiplier": 2.70535343035343,
   "collapse-forces": false,
-  "centerStrength": 0.303014553014553,
-  "repelStrength": 12.047817047817,
+  "centerStrength": 0.194906444906445,
+  "repelStrength": 11.4656964656965,
   "linkStrength": 1,
-  "linkDistance": 131,
-  "scale": 0.450508117675759,
+  "linkDistance": 86,
+  "scale": 0.45050811767574905,
   "close": true
 }
