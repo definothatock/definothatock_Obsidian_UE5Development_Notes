@@ -4,3 +4,5 @@
 [[AI Designs]]
 [[Idea Branch]]
 [[Installed Plugins]]
+
+[[Environment Design]]

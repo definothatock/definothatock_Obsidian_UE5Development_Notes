@@ -11,19 +11,9 @@
             "id": "6d042cf31d17bcf4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "c63210ca5e6da861",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "UE5/UE5.md",
+                "file": "FYP/DumbArse shit I've done.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "UE5"
+              "title": "DumbArse shit I've done"
             }
           },
           {
-            "id": "22b330c3a460d4bf",
+            "id": "412144e3e5a1b290",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UE5/Engine Tools/Engine Tools.md",
+                "file": "FYP/DumbArse shit I've done.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,7 +52,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Engine Tools"
+              "title": "DumbArse shit I've done"
+            }
+          },
+          {
+            "id": "1573792036984d5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UE5/Engine Core/Programming/Pointers/UE Pointers.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "UE Pointers"
+            }
+          },
+          {
+            "id": "2fece52067b27c45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UE5/Engine Core/Programming/Pointers/Non GC Aware/Non GC Aware.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Non GC Aware"
             }
           }
         ]
@@ -248,6 +286,14 @@
   },
   "active": "6d042cf31d17bcf4",
   "lastOpenFiles": [
+    "FYP/DumbArse shit I've done.md",
+    "UE5/Engine Core/Programming/Pointers/Non GC Aware/Non GC Aware.md",
+    "UE5/Engine Core/Programming/Pointers/UE Pointers.md",
+    "UE5/Engine Core/Programming/Pointers/GC Aware/GC Aware.md",
+    "FYP/EIK.md",
+    "FYP/Environment Design.md",
+    "FYP/FYP.md",
+    "FYP/Idea Branch/Background Idea.md",
     "UE5/Engine Core/Engine Core.md",
     "UE5/UE5.md",
     "UE5/Engine Tools/Engine Tools.md",
@@ -268,16 +314,9 @@
     "FYP/Idea Branch/Games Reference.md",
     "FYP/Idea Branch/Item Idea.md",
     "FYP/AI Design/AI Designs.md",
-    "UE5/Engine Core/Programming/Pointers/UE Pointers.md",
     "UE5/Engine Core/Gameplay Framework/Actor/Actor Component.md",
     "FYP/AI Design/Creature Behaviour Machine.md",
     "FYP/AI Design/Working Memory.md",
-    "UE5/Online/Multiplayer/Multiplayer.md",
-    "README.md",
-    "UE5/Engine Tools/State Tree/State Tree.md",
-    "UE5/Engine Tools/State Tree/Task.md",
-    "UE5/Engine Tools/State Tree/Evaluator.md",
-    "UE5/UI.md",
     "UE5/Online/Multiplayer",
     "FYP/AI Design/Pasted image 20251204235908.png",
     "UE5/Online/Multiplayer/Voice Chat",
