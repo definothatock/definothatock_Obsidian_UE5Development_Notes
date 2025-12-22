@@ -8,36 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6d042cf31d17bcf4",
+            "id": "03986282fa77e947",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FYP/DumbArse shit I've done.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "DumbArse shit I've done"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "412144e3e5a1b290",
+            "id": "368a5a7f468094b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FYP/DumbArse shit I've done.md",
+                "file": "UE5/Online/Multiplayer/Voice Chat/Voice Chat.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +38,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DumbArse shit I've done"
+              "title": "Voice Chat"
             }
           },
           {
-            "id": "1573792036984d5e",
+            "id": "4e5fa4e4deb8d733",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UE5/Engine Core/Programming/Pointers/UE Pointers.md",
+                "file": "UE5/Online/Online SubSystem/Online SubSystem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,34 +62,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "UE Pointers"
-            }
-          },
-          {
-            "id": "2fece52067b27c45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UE5/Engine Core/Programming/Pointers/Non GC Aware/Non GC Aware.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Non GC Aware"
+              "title": "Online SubSystem"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -284,15 +247,29 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "6d042cf31d17bcf4",
+  "active": "368a5a7f468094b1",
   "lastOpenFiles": [
-    "FYP/DumbArse shit I've done.md",
+    "UE5/Online/Online SubSystem/Online SubSystem.md",
+    "UE5/Online/Multiplayer/Voice Chat/Voice Chat.md",
+    "UE5/Engine Core/Gameplay Framework/Gameplay Framework.md",
+    "UE5/Online/Multiplayer/Voice Chat/VOIP.md",
+    "FYP/Custom Online Session Subsystem.md",
+    "UE5/Online.md",
+    "FYP/FYP.md",
+    "FYP/Other/Other.md",
+    "FYP/Plugins/Useful Plugins.md",
+    "FYP/Idea Branch/Idea Branch.md",
+    "FYP/Idea Branch/Environment Design.md",
+    "FYP/Plugins/EIK.md",
+    "FYP/Other",
+    "FYP/Plugins",
+    "UE5/Online/Online SubSystem/player state.md",
+    "UE5/Online/Online SubSystem/Online Session Subsystem Example.png",
+    "UE5/Online/Online SubSystem",
+    "FYP/Other/DumbArse shit I've done.md",
     "UE5/Engine Core/Programming/Pointers/Non GC Aware/Non GC Aware.md",
     "UE5/Engine Core/Programming/Pointers/UE Pointers.md",
     "UE5/Engine Core/Programming/Pointers/GC Aware/GC Aware.md",
-    "FYP/EIK.md",
-    "FYP/Environment Design.md",
-    "FYP/FYP.md",
     "FYP/Idea Branch/Background Idea.md",
     "UE5/Engine Core/Engine Core.md",
     "UE5/UE5.md",
@@ -304,27 +281,13 @@
     "UE5/Runtime",
     "Untitled.canvas",
     "UE5/Engine Core/Programming/Programming.md",
-    "UE5/Engine Core/Gameplay Framework/Gameplay Framework.md",
     "UE5/Engine Core/Programming",
     "UE5/Engine Core/Untitled.md",
     "UE5/Engine Core/Gameplay Framework",
-    "FYP/Idea Branch/Creature Idea.md",
-    "FYP/Idea Branch/Sound Reference.md",
-    "FYP/Idea Branch/Idea Branch.md",
-    "FYP/Idea Branch/Games Reference.md",
-    "FYP/Idea Branch/Item Idea.md",
-    "FYP/AI Design/AI Designs.md",
-    "UE5/Engine Core/Gameplay Framework/Actor/Actor Component.md",
-    "FYP/AI Design/Creature Behaviour Machine.md",
-    "FYP/AI Design/Working Memory.md",
     "UE5/Online/Multiplayer",
     "FYP/AI Design/Pasted image 20251204235908.png",
     "UE5/Online/Multiplayer/Voice Chat",
     "UE5/Engine Core/Programming/Pointers/Non GC Aware",
-    "UE5/Engine Core/Programming/Pointers/GC Aware",
-    "FYP/FYP.base",
-    "UE5/UE5.base",
-    "UE5/Online/Online Session Subsystem Example.png",
     "Pasted image 20251118180711.png",
     "FYP/AI Design/Memory Flow example.png",
     "Pasted image 20251118020520.png",

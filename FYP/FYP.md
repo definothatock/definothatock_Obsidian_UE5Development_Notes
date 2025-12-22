@@ -1,8 +1,11 @@
 #BaseNode 
 
-[[DumbArse shit I've done]]
-[[AI Designs]]
-[[Idea Branch]]
-[[Installed Plugins]]
 
-[[Environment Design]]
+
+[[Idea Branch]]
+
+[[AI Designs]]
+[[Useful Plugins]]
+[[Custom Online Session Subsystem]]
+
+[[Other]]

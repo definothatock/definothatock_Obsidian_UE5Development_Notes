@@ -1,0 +1,1 @@
+Voice Chat is attached to the UniqueNetID (in the PlayerState), not the Pawn.

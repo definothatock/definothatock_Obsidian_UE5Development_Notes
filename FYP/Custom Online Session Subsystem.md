@@ -1,5 +1,4 @@
 
-
 **Online Session Interface in Ureal Engine has Delegates List.**
 
 - Info need to send across the internet, and wait for response. e.g. :
@@ -12,4 +11,3 @@
         
     - Callback functions provoked and received session data
 ![[Online Session Subsystem Example.png]]
-
